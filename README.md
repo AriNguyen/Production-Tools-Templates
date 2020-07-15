@@ -2,7 +2,7 @@
 This repo includes template for Bash files, makefile, CMakeLists that I used frequently.
 
 ## Bash Template
-### cleanGiignore.bash
+### cleanGitignore.bash
 ```shell
 chmod 700 cleanGiignore.bash
 ./cleanGiignore.bash < .gitignore
